@@ -1,0 +1,16 @@
+Company_Name,DUNS_Num,CIK_Num,year_x,Funding_Type,funding_amt,Funding_Source,HC_Status,HC_Maturity,HC_Section,HC_Phase
+Ginkgo Bioworks,827811626,"1,648,827",2009,Government Award,99981,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Ginkgo Bioworks,827811626,"1,648,827",2011,Government Award,150000,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Ginkgo Bioworks,827811626,"1,648,827",2012,Government Award,150000,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Ginkgo Bioworks,827811626,"1,648,827",2013,Government Award,150000,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Ginkgo Bioworks,827811626,"1,648,827",2013,Government Award,150000,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Ginkgo Bioworks,827811626,"1,648,827",2013,Government Award,150000,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Ginkgo Bioworks,827811626,"1,648,827",2014,Government Award,1750000,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Ginkgo Bioworks,827811626,"1,648,827",2015,Government Award,150000,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Ginkgo Bioworks,827811626,"1,648,827",2014,Seed,120000,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Ginkgo Bioworks,827811626,"1,648,827",2015,Series A,9000000,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Ginkgo Bioworks,827811626,"1,648,827",2015,Series B,45000000,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ginkgo Bioworks,827811626,"1,648,827",2016,Series C,100000000,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ginkgo Bioworks,827811626,"1,648,827",2017,Series D,275000000,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ginkgo Bioworks,827811626,"1,648,827",2019,Series E,290000000,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ginkgo Bioworks,827811626,"1,648,827",2020,Series F,70000000,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment

@@ -1,0 +1,1001 @@
+Company_Name,DUNS_Num,CIK_Num,Year_x,Funding_Type,Funding_Amt,Funding_Source,HC_Status,HC_Maturity,HC_Section,HC_Phase
+Byrd-Carlson,827811626,1648827,1976,Seed,632523,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Travis, Anderson and Cooke",827811626,1648827,2005,Series C,560075,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Durham, Johnson and Cole",827811626,1648827,1977,Series D,963354,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Taylor, Jenkins and Jackson",827811626,1648827,1992,Series C,427683,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Reed Ltd,827811626,1648827,1985,Series D,970320,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Anderson, Pittman and Sandoval",827811626,1648827,1975,Series C,502409,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Nguyen and Sons,827811626,1648827,1973,Series B,908075,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Johnson-Rogers,827811626,1648827,2004,Series F,435199,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Fox-Harrison,827811626,1648827,2014,Series F,24387,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Stephens, Drake and Anderson",827811626,1648827,1983,Series E,874705,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Henderson-Herrera,827811626,1648827,1982,Series F,287190,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Long, Weeks and Paul",827811626,1648827,2014,Series B,864185,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Morgan, Cruz and Rogers",827811626,1648827,2004,Series C,469665,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Keller, Davis and Hansen",827811626,1648827,1978,Series A,764275,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Andrade-Hensley,827811626,1648827,1970,Government Award,317202,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Walter PLC,827811626,1648827,2005,Series F,769603,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Mooney, Sanders and Patterson",827811626,1648827,1998,Government Award,932022,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Barnes and Sons,827811626,1648827,1988,Series B,183179,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Brown, Friedman and Anderson",827811626,1648827,1999,Series A,559949,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Armstrong-Carson,827811626,1648827,2000,Series B,677295,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Freeman Inc,827811626,1648827,1972,Series A,61249,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Murillo Group,827811626,1648827,2001,Series D,269106,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ferguson Inc,827811626,1648827,2002,Seed,17461,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Fitzgerald-Reynolds,827811626,1648827,1997,Series D,645042,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Cortez Ltd,827811626,1648827,1985,Seed,332438,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Keller-Fisher,827811626,1648827,2002,Government Award,566270,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+James-Spencer,827811626,1648827,1973,Series A,81197,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Love-Alexander,827811626,1648827,2009,Government Award,361278,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Spears PLC,827811626,1648827,2005,Series A,563387,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Holmes-Brown,827811626,1648827,1999,Series F,399850,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Kirk Group,827811626,1648827,1971,Series A,391389,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Whitehead Ltd,827811626,1648827,1996,Series B,829456,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Payne, Blackburn and Jones",827811626,1648827,2021,Series C,997346,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Lopez, Munoz and Rodriguez",827811626,1648827,1983,Seed,765048,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Simon-Hernandez,827811626,1648827,1991,Government Award,556569,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Nguyen-Robinson,827811626,1648827,1986,Series D,926317,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Baker PLC,827811626,1648827,1988,Series D,951939,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Rivera-Love,827811626,1648827,1983,Series A,418699,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Harris-Gomez,827811626,1648827,1994,Seed,78297,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Robinson and Sons,827811626,1648827,2006,Series F,854207,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Cross, Reyes and Mayo",827811626,1648827,1992,Series F,986622,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Wade, Paul and Brooks",827811626,1648827,1987,Seed,126580,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Guerrero-Barrera,827811626,1648827,1972,Government Award,946252,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Evans Inc,827811626,1648827,2007,Series D,271969,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Jackson-Johnson,827811626,1648827,1977,Series B,722040,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"West, Morris and Malone",827811626,1648827,1971,Series F,130873,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Miller-Ward,827811626,1648827,1993,Seed,554241,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Warren, Stokes and Ochoa",827811626,1648827,1994,Series D,204742,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Dickerson LLC,827811626,1648827,1994,Government Award,80333,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Juarez, Johnson and Lee",827811626,1648827,1980,Series C,966960,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Leonard-Yang,827811626,1648827,1973,Seed,108647,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Acosta-Logan,827811626,1648827,1984,Government Award,253463,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Kim-Morris,827811626,1648827,2019,Series E,938832,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Martin, Garcia and Bartlett",827811626,1648827,1979,Series E,399288,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Benson, Smith and Perez",827811626,1648827,2000,Series F,359441,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Finley, Mitchell and Dunn",827811626,1648827,2005,Series E,902236,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Smith-Mcpherson,827811626,1648827,1993,Series F,964924,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Welch, Chapman and Valdez",827811626,1648827,1998,Series F,654215,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Haynes, Krueger and Hendrix",827811626,1648827,1982,Seed,835577,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Wood, Paul and Salinas",827811626,1648827,2005,Series A,926101,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Gomez-Harris,827811626,1648827,1975,Government Award,29158,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Dawson-Owens,827811626,1648827,1998,Seed,562433,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Conrad-Jones,827811626,1648827,1994,Series C,130224,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Little-Strickland,827811626,1648827,2000,Series D,731587,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Lewis, Williams and Mcdonald",827811626,1648827,1975,Series B,136405,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Terrell, Williams and Chapman",827811626,1648827,2017,Series B,689563,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Morrison, Delgado and Austin",827811626,1648827,2009,Series E,776781,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Kim-Lewis,827811626,1648827,1999,Seed,978162,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Barnes Inc,827811626,1648827,2020,Series F,830894,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Jones Ltd,827811626,1648827,2012,Series A,747892,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Stewart Inc,827811626,1648827,1989,Series B,291860,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Baxter-Miles,827811626,1648827,1985,Series F,79833,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Scott-Ewing,827811626,1648827,1993,Seed,511959,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Bonilla Inc,827811626,1648827,1971,Series C,431834,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Roberts, Mendez and Reed",827811626,1648827,2008,Seed,66161,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Butler-Thomas,827811626,1648827,2003,Series F,284586,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Schmidt-Young,827811626,1648827,2018,Series E,702622,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Bennett and Sons,827811626,1648827,1975,Seed,376601,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Chen Ltd,827811626,1648827,2005,Series D,707151,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Palmer-Pierce,827811626,1648827,1979,Series F,948688,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Garcia-Perkins,827811626,1648827,1973,Series A,526578,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Garcia, Baker and Rodriguez",827811626,1648827,1980,Series B,319189,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Smith PLC,827811626,1648827,1984,Series E,607494,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Pitts-Francis,827811626,1648827,2009,Series F,967963,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Gonzalez LLC,827811626,1648827,1984,Series B,335499,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Porter-Miranda,827811626,1648827,1983,Series E,555279,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Brown-Haynes,827811626,1648827,2015,Series B,556595,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Fisher, White and Garcia",827811626,1648827,1970,Series F,872436,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Kim-Lam,827811626,1648827,2011,Series D,62641,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Watson, Williams and Coleman",827811626,1648827,1973,Seed,587300,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Mckay-Hancock,827811626,1648827,1994,Series A,26400,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Henderson-Bartlett,827811626,1648827,1996,Series B,38304,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Wood, Gibson and Cline",827811626,1648827,1986,Series C,354269,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Parker-Joyce,827811626,1648827,1978,Series D,435003,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Nguyen LLC,827811626,1648827,1983,Series F,720600,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Stone PLC,827811626,1648827,1983,Government Award,817277,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Carr-Ortega,827811626,1648827,1990,Series A,175193,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+James-Navarro,827811626,1648827,1977,Series B,428933,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Alexander Inc,827811626,1648827,1980,Series C,167803,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Cunningham and Sons,827811626,1648827,1981,Series E,389034,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Williams-Martinez,827811626,1648827,2013,Government Award,984661,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Yu-Gonzalez,827811626,1648827,1997,Series E,66527,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Brown Inc,827811626,1648827,1992,Series F,747958,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Green-Bennett,827811626,1648827,1974,Series A,673168,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Gomez PLC,827811626,1648827,1989,Series B,503125,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Thornton Ltd,827811626,1648827,1994,Series A,797468,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Walton, Williams and King",827811626,1648827,1973,Seed,505021,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Jenkins Inc,827811626,1648827,1977,Government Award,317068,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Hammond, Jennings and Spence",827811626,1648827,1989,Series F,728623,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Moore-Davis,827811626,1648827,2009,Seed,893347,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Gutierrez, Smith and Chapman",827811626,1648827,2003,Series E,611059,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hill-Lyons,827811626,1648827,2019,Series B,663310,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Perry Ltd,827811626,1648827,2008,Series B,589672,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Davis-Murray,827811626,1648827,1990,Seed,900027,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Perez and Sons,827811626,1648827,1989,Seed,31842,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Ross-Edwards,827811626,1648827,1983,Seed,45288,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Wood-Valdez,827811626,1648827,2011,Series D,677535,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Foster-Hoover,827811626,1648827,1970,Series B,835017,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Boyle-Hanson,827811626,1648827,2001,Series D,377184,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Bennett, Diaz and Henry",827811626,1648827,2018,Series F,10591,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Evans-Cox,827811626,1648827,1971,Seed,140796,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Mann Group,827811626,1648827,1983,Series D,824351,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Strong LLC,827811626,1648827,2001,Series B,536227,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Andrews Inc,827811626,1648827,1971,Seed,891063,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Myers, Richards and Robinson",827811626,1648827,1980,Series C,670574,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Miller Ltd,827811626,1648827,2001,Series B,739005,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Sullivan Inc,827811626,1648827,1975,Series A,981176,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Roman-Barron,827811626,1648827,2001,Seed,399346,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Rodriguez Inc,827811626,1648827,1972,Series D,176035,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Wiggins, Rosales and Macias",827811626,1648827,1985,Series A,169116,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Hernandez LLC,827811626,1648827,1984,Series A,254836,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Hendricks-Blevins,827811626,1648827,1993,Government Award,533586,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Gonzalez Group,827811626,1648827,2013,Government Award,200880,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Lee-Hester,827811626,1648827,1996,Series C,474401,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ball LLC,827811626,1648827,1976,Series A,477713,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Whitehead-Brown,827811626,1648827,1998,Series A,197879,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Howe, Gomez and Williams",827811626,1648827,1993,Series A,342586,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Myers and Sons,827811626,1648827,1993,Seed,206796,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Palmer-Irwin,827811626,1648827,2015,Series D,183291,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Johnson LLC,827811626,1648827,2007,Series B,9558,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Taylor, Martinez and Hartman",827811626,1648827,2005,Series B,52417,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Gonzalez, Merritt and Lawrence",827811626,1648827,2006,Series A,337391,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+King-Cook,827811626,1648827,1992,Series C,848190,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Henry-Saunders,827811626,1648827,2003,Series F,136051,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Brown PLC,827811626,1648827,1985,Series B,510598,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Paul-Houston,827811626,1648827,1998,Government Award,362927,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Howard and Sons,827811626,1648827,1982,Series E,454906,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Cox, Nelson and Anderson",827811626,1648827,2021,Series A,916636,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Bryant-Brown,827811626,1648827,2018,Series A,737735,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Schwartz, Ellis and Mercado",827811626,1648827,2001,Series F,933594,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Thomas, Wilson and Mayo",827811626,1648827,2007,Seed,821647,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Dunlap, Pruitt and Munoz",827811626,1648827,2019,Series F,435836,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Moreno LLC,827811626,1648827,2018,Series C,961953,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Hunter, Harrison and Cohen",827811626,1648827,1977,Seed,901026,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Smith, Stewart and Montgomery",827811626,1648827,1982,Series C,274,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Sanders and Sons,827811626,1648827,1990,Series B,62317,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Perry Inc,827811626,1648827,2006,Government Award,373582,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Chan-Henderson,827811626,1648827,1990,Seed,929905,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Johnston, Washington and Chambers",827811626,1648827,1981,Series E,625887,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Garner, Garcia and Bentley",827811626,1648827,1993,Series A,117032,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Delgado LLC,827811626,1648827,1978,Series A,876411,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Bowen, Murray and Castro",827811626,1648827,2003,Government Award,838859,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Miller PLC,827811626,1648827,2008,Seed,67033,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Bryan, Greer and Patterson",827811626,1648827,2002,Government Award,582505,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Abbott Ltd,827811626,1648827,2013,Seed,936268,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Dawson-Garrett,827811626,1648827,1971,Series E,402251,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Andrews-Garza,827811626,1648827,2016,Series B,181282,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Mills Inc,827811626,1648827,1980,Series A,182200,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Brown-Dean,827811626,1648827,1978,Series D,447436,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Cervantes LLC,827811626,1648827,2011,Series F,563596,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ward-White,827811626,1648827,1981,Series F,107102,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Johnson-Phillips,827811626,1648827,2012,Series A,886418,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Fernandez-Smith,827811626,1648827,2005,Series D,106450,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Smith Inc,827811626,1648827,1972,Seed,852061,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Russell Group,827811626,1648827,2018,Series D,572993,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Dorsey-Salazar,827811626,1648827,1971,Seed,124158,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Hendrix-Peters,827811626,1648827,2018,Government Award,224746,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Carroll-Lopez,827811626,1648827,1992,Series B,702818,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Mcmillan Ltd,827811626,1648827,1971,Series E,481317,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Allen LLC,827811626,1648827,2001,Series F,147295,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Harris Inc,827811626,1648827,1970,Series B,793969,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Nelson, Smith and Potts",827811626,1648827,1981,Government Award,933693,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Fox and Sons,827811626,1648827,1989,Series A,446351,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Young-Larson,827811626,1648827,1983,Series E,111969,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Weaver Ltd,827811626,1648827,2003,Government Award,173065,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Warner PLC,827811626,1648827,1995,Series F,267838,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Briggs-Williams,827811626,1648827,1978,Series E,77287,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Torres-Edwards,827811626,1648827,1975,Seed,308156,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Gay-Garcia,827811626,1648827,1997,Series E,760194,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ford PLC,827811626,1648827,1995,Series E,260704,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hughes Inc,827811626,1648827,2018,Series E,669928,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Smith-Taylor,827811626,1648827,2008,Series D,585181,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Barnett Ltd,827811626,1648827,2004,Series E,968872,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Gregory, Miller and Reese",827811626,1648827,1973,Series F,537317,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Lester, Berry and Davis",827811626,1648827,2008,Series F,897068,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ware and Sons,827811626,1648827,1996,Series C,856862,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Cruz-Hughes,827811626,1648827,1974,Series F,448839,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hoffman LLC,827811626,1648827,2001,Series A,902763,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Foster, Riley and Carroll",827811626,1648827,1977,Series E,998278,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Smith-Davis,827811626,1648827,2012,Series B,21619,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Everett, Rivas and Lewis",827811626,1648827,1998,Series A,721972,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Moore and Sons,827811626,1648827,2004,Series F,989014,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Gordon, Calderon and Moore",827811626,1648827,2016,Series D,900248,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Cameron, Nguyen and Lyons",827811626,1648827,2002,Series A,759569,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Miller-Perez,827811626,1648827,2002,Seed,423894,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Yang-Rose,827811626,1648827,1990,Series D,855743,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Carter-Anderson,827811626,1648827,2007,Series D,911185,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Ward, York and Sanchez",827811626,1648827,1996,Seed,853143,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Manning Inc,827811626,1648827,2004,Government Award,241910,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Hawkins, Erickson and Cooke",827811626,1648827,2021,Series B,55488,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Duffy PLC,827811626,1648827,2018,Series A,330213,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Mercado, Pierce and Warner",827811626,1648827,1986,Series F,929756,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Gilmore Ltd,827811626,1648827,2015,Series A,822198,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Baker-Little,827811626,1648827,2001,Series D,275286,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Sheppard, Duran and Raymond",827811626,1648827,1974,Series C,344462,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Allen, Thomas and Flynn",827811626,1648827,1982,Series E,579963,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Deleon-Morales,827811626,1648827,2013,Series A,24952,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Lin Inc,827811626,1648827,1984,Seed,395574,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Ross Group,827811626,1648827,1972,Series B,49190,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Jones, Gutierrez and Lee",827811626,1648827,2002,Series E,736959,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Tucker, Ford and Short",827811626,1648827,1988,Series A,136914,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+David PLC,827811626,1648827,2006,Series C,311291,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Jordan-Mcmahon,827811626,1648827,1970,Series E,451651,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Haley Inc,827811626,1648827,2008,Series A,637712,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Smith-Sullivan,827811626,1648827,1989,Seed,88541,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Ball-Campbell,827811626,1648827,2008,Series C,12297,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Wu-Harris,827811626,1648827,1979,Series E,250157,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Colon and Sons,827811626,1648827,2009,Government Award,814248,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Green and Sons,827811626,1648827,2005,Series E,899223,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Allen Group,827811626,1648827,1990,Series E,913583,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Thompson-Lucero,827811626,1648827,1972,Seed,176,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Knight, Reed and Chavez",827811626,1648827,1989,Seed,257851,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Garcia-Hardy,827811626,1648827,1975,Government Award,481040,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Harrison Inc,827811626,1648827,2003,Series E,115946,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Harris, Reyes and Thompson",827811626,1648827,2013,Seed,112036,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Williams-Lucas,827811626,1648827,2009,Series A,481224,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Wise-Norris,827811626,1648827,2019,Series E,731451,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Luna-Wilson,827811626,1648827,1994,Series A,373279,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Reyes, Edwards and Chandler",827811626,1648827,2004,Series E,906430,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Brown, Dean and Castaneda",827811626,1648827,2016,Series A,345530,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Myers Inc,827811626,1648827,2014,Series E,926727,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Powell, Cook and Miller",827811626,1648827,1990,Series C,633366,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Clark, Alvarado and Waters",827811626,1648827,2018,Series D,741199,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Downs PLC,827811626,1648827,1972,Series D,963459,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Murray Inc,827811626,1648827,1970,Government Award,845990,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Garcia-Wilson,827811626,1648827,1985,Series C,900356,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Edwards and Sons,827811626,1648827,2013,Series A,647124,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Smith LLC,827811626,1648827,1997,Series B,210877,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Perez, Anderson and Baldwin",827811626,1648827,2002,Government Award,183939,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Guzman-Pratt,827811626,1648827,2014,Seed,49667,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Avila-Bowman,827811626,1648827,1989,Series C,615288,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Adams-Lopez,827811626,1648827,1976,Seed,682745,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Hansen, Small and Acevedo",827811626,1648827,2005,Series F,24189,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Robinson, Fitzpatrick and Bennett",827811626,1648827,1981,Series E,740860,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Pitts-Peters,827811626,1648827,2015,Series D,756528,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Lynn Ltd,827811626,1648827,1977,Seed,932073,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Durham Ltd,827811626,1648827,1980,Seed,943782,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Sandoval and Sons,827811626,1648827,1974,Series A,871131,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Mitchell Ltd,827811626,1648827,1996,Series D,664326,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Mckenzie, Anderson and Sanchez",827811626,1648827,2003,Series F,803414,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Castillo, Davis and Moyer",827811626,1648827,1999,Series E,397535,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Robinson Ltd,827811626,1648827,2016,Series D,442786,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Schneider-Nguyen,827811626,1648827,2016,Series A,872534,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Clark and Sons,827811626,1648827,2006,Seed,576442,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Harris Ltd,827811626,1648827,1972,Seed,820972,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Wilkerson LLC,827811626,1648827,1982,Series A,749245,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Nelson-Bowman,827811626,1648827,1993,Series D,402522,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Young Group,827811626,1648827,2001,Series E,836178,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Hanson, Nunez and Joseph",827811626,1648827,2000,Series E,802277,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ryan-Hobbs,827811626,1648827,1973,Government Award,976094,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Floyd-Brown,827811626,1648827,1977,Government Award,49802,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Kelly-Vance,827811626,1648827,2020,Series F,576798,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Moore-Nelson,827811626,1648827,1989,Series C,903944,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Greer, Gonzalez and Jacobson",827811626,1648827,1988,Series F,406191,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Wood-Gibson,827811626,1648827,2013,Series B,721102,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hall Ltd,827811626,1648827,2008,Series A,175008,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Austin-Jones,827811626,1648827,1994,Series D,770188,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Powell-Chan,827811626,1648827,2003,Series F,94448,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Douglas LLC,827811626,1648827,1978,Series E,276529,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Walker-Guerra,827811626,1648827,2001,Government Award,167392,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Wilson PLC,827811626,1648827,1991,Government Award,81058,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Montoya, Moore and Nguyen",827811626,1648827,1982,Seed,941975,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Johnson, Mccall and Scott",827811626,1648827,1983,Government Award,81478,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Johnson Ltd,827811626,1648827,1985,Series C,26720,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Snow LLC,827811626,1648827,1992,Series F,636778,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Barajas LLC,827811626,1648827,1972,Government Award,414428,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Jenkins and Sons,827811626,1648827,2021,Series A,628717,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Mendez-Weber,827811626,1648827,1986,Seed,135097,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Wallace-Freeman,827811626,1648827,2005,Series C,188296,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Washington-Smith,827811626,1648827,2019,Series F,839186,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Douglas-Price,827811626,1648827,1991,Seed,400310,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Lee, Johnson and Johnson",827811626,1648827,1995,Series C,223526,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Cortez-Weaver,827811626,1648827,2011,Seed,826045,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Garrett, Christian and Nelson",827811626,1648827,1977,Series A,403903,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Hanson, Vincent and Rose",827811626,1648827,2010,Series C,778287,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Green-Tate,827811626,1648827,1976,Government Award,132795,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Patterson, Shepard and Brown",827811626,1648827,1993,Government Award,9713,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Francis PLC,827811626,1648827,2009,Series F,249525,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Clark, Phillips and Brewer",827811626,1648827,2011,Series F,815951,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Wolf, Carr and Morgan",827811626,1648827,1998,Series B,341063,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Jennings, Davila and Kelly",827811626,1648827,2000,Series C,691243,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Hopkins, Sharp and Munoz",827811626,1648827,1980,Series F,937590,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Whitney, Luna and Roberts",827811626,1648827,1971,Series B,496570,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Williams-Lopez,827811626,1648827,1995,Government Award,94272,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Black-Webb,827811626,1648827,2004,Series E,169846,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Dean Group,827811626,1648827,2004,Seed,900435,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Reese, Brock and Bentley",827811626,1648827,1999,Series F,225694,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Davidson Ltd,827811626,1648827,2017,Seed,837791,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Bowman PLC,827811626,1648827,2003,Government Award,870186,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Moyer Group,827811626,1648827,1992,Series D,142743,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Vaughn-Cruz,827811626,1648827,2010,Series E,205965,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+James Group,827811626,1648827,2014,Series F,286350,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Smith-Rosales,827811626,1648827,2019,Series A,422831,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Wall, Marsh and Williams",827811626,1648827,1975,Government Award,77615,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Nash-Bowman,827811626,1648827,1981,Series F,984409,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Williams, Byrd and Perez",827811626,1648827,1993,Seed,303053,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Valencia-Lawson,827811626,1648827,1990,Series B,778502,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Villanueva LLC,827811626,1648827,1987,Series C,81400,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Bush, Carr and Anderson",827811626,1648827,1982,Government Award,670933,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Padilla PLC,827811626,1648827,2009,Series E,892479,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Wolfe, Haynes and Thomas",827811626,1648827,2008,Series C,235699,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Santiago, Gonzalez and Rogers",827811626,1648827,1980,Series D,302485,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Clements Inc,827811626,1648827,1975,Government Award,281842,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Cruz PLC,827811626,1648827,1973,Government Award,71768,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Miller-Warner,827811626,1648827,1972,Government Award,356784,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Frank LLC,827811626,1648827,1986,Series E,257546,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Knox, Spencer and Washington",827811626,1648827,1985,Series D,518479,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Lara-Francis,827811626,1648827,1980,Series F,408904,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Patton-Jenkins,827811626,1648827,1986,Series F,927294,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Nicholson and Sons,827811626,1648827,2009,Series E,475639,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Romero, Klein and Dixon",827811626,1648827,2010,Series C,35506,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Massey-Cook,827811626,1648827,2001,Seed,473856,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Clay, Brooks and Welch",827811626,1648827,1978,Series D,51372,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Lawson, Cruz and Wright",827811626,1648827,2017,Seed,661877,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Sanchez Inc,827811626,1648827,2008,Series D,330601,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Leonard, Holloway and Greer",827811626,1648827,2011,Series D,68027,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Carter Inc,827811626,1648827,1974,Series A,491212,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Holt, Herrera and Garcia",827811626,1648827,1999,Series A,838308,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Gould-Taylor,827811626,1648827,1982,Series E,540332,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Williams-Thomas,827811626,1648827,1986,Series A,830661,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Taylor-Park,827811626,1648827,1971,Series D,8309,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Foster-Estes,827811626,1648827,1991,Seed,632095,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Simmons, Small and Ford",827811626,1648827,1991,Series C,472106,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Fox Ltd,827811626,1648827,1972,Government Award,400470,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Pena, Martin and Hahn",827811626,1648827,2004,Seed,906,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Massey Inc,827811626,1648827,2020,Series B,985651,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Boone LLC,827811626,1648827,2012,Series D,198387,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Bennett, Oliver and Sanchez",827811626,1648827,2019,Series E,844172,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Davis Group,827811626,1648827,1979,Series D,200009,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Greene, Irwin and Hayes",827811626,1648827,2002,Government Award,630723,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Lewis PLC,827811626,1648827,2013,Series A,83083,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Roberts, Case and Washington",827811626,1648827,2002,Series E,986152,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Martinez-Stevens,827811626,1648827,1972,Government Award,156914,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Wolfe-Mcfarland,827811626,1648827,2014,Series F,902495,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Henry Group,827811626,1648827,1989,Series F,461397,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ramos Inc,827811626,1648827,2015,Seed,177851,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Hernandez Inc,827811626,1648827,1971,Series E,370691,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Watts-Lara,827811626,1648827,2004,Series B,93451,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Sullivan-Carson,827811626,1648827,1972,Seed,821456,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Thomas-Franklin,827811626,1648827,1979,Series B,102331,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Alvarez, Stein and Jackson",827811626,1648827,2000,Series E,875670,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Collins PLC,827811626,1648827,1971,Series B,711265,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Torres, Olson and Kennedy",827811626,1648827,2021,Seed,827941,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Jacobs, Oconnor and Miller",827811626,1648827,2005,Series A,127563,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Miller, Perez and Williams",827811626,1648827,2002,Series E,157850,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Gonzales, Brown and Brown",827811626,1648827,2015,Series B,669291,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Mayo, Fuentes and Luna",827811626,1648827,1983,Seed,674927,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Rivas-Buck,827811626,1648827,1983,Series A,410539,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Powell Inc,827811626,1648827,1981,Government Award,650350,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Potts-Wagner,827811626,1648827,1996,Series C,426155,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Skinner, White and Vance",827811626,1648827,1984,Series F,407384,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Freeman-Thornton,827811626,1648827,2003,Series E,132804,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Vance LLC,827811626,1648827,1973,Series C,8516,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Edwards PLC,827811626,1648827,2006,Series A,284289,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Aguilar and Sons,827811626,1648827,2003,Seed,176656,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Yoder LLC,827811626,1648827,1986,Series B,555214,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Brown, Davis and Stewart",827811626,1648827,1974,Seed,356820,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Andrade, Lester and Martin",827811626,1648827,2021,Series E,68288,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Sanchez PLC,827811626,1648827,1973,Series D,775731,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Martin, Clark and Ibarra",827811626,1648827,2014,Series F,560772,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Bryant-Maldonado,827811626,1648827,1994,Series A,903672,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Dunn Inc,827811626,1648827,1985,Series C,872672,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Mcclain-Taylor,827811626,1648827,1980,Government Award,336487,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Harrell, Chen and Freeman",827811626,1648827,1982,Series A,701659,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Greer Inc,827811626,1648827,2019,Government Award,494848,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Brooks-Williams,827811626,1648827,1985,Seed,258723,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Jones, Pineda and Jones",827811626,1648827,1982,Series B,919962,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Lopez Ltd,827811626,1648827,2008,Series C,236682,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Gregory PLC,827811626,1648827,1990,Government Award,347958,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Perry-Porter,827811626,1648827,1978,Seed,158808,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Smith and Sons,827811626,1648827,2013,Series E,653230,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Gill-Gonzales,827811626,1648827,1988,Government Award,55088,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Kaufman Ltd,827811626,1648827,1995,Series A,46603,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Payne-Wright,827811626,1648827,2004,Series F,478247,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Reeves, Adams and Zavala",827811626,1648827,1975,Series E,24803,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Harris-Skinner,827811626,1648827,2009,Series D,931925,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Cochran Group,827811626,1648827,2003,Series E,571215,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Shaw, Henderson and Green",827811626,1648827,2002,Series D,123821,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Walters, Williams and Baxter",827811626,1648827,2021,Series B,237671,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Holt, Walker and Garcia",827811626,1648827,2013,Series C,903336,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Colon-Baker,827811626,1648827,1974,Government Award,960099,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Nguyen-Moreno,827811626,1648827,2003,Government Award,834339,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Pearson-Mann,827811626,1648827,1988,Series B,862934,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Stewart, Sanchez and Strong",827811626,1648827,2014,Series C,784958,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Cherry, Knight and Wheeler",827811626,1648827,1993,Series E,77126,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Taylor, Gallegos and Webb",827811626,1648827,1971,Series D,54100,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Chang, Scott and Wilson",827811626,1648827,2008,Series D,25964,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Torres PLC,827811626,1648827,1979,Series D,168360,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Andrews PLC,827811626,1648827,1970,Series E,832123,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Pope, West and Lynch",827811626,1648827,1976,Series F,562274,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hayes-Carney,827811626,1648827,1988,Seed,324257,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Nielsen Ltd,827811626,1648827,2012,Series E,235625,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Parks, Sanchez and Wilson",827811626,1648827,1982,Series D,364660,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Keller, Whitney and Rivera",827811626,1648827,2021,Series F,532648,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Stevenson LLC,827811626,1648827,1992,Series B,946942,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Rice, Ali and Tyler",827811626,1648827,2014,Seed,175882,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"May, Taylor and Wyatt",827811626,1648827,1998,Government Award,619787,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Ray-Lewis,827811626,1648827,1995,Series E,201892,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Cortez Inc,827811626,1648827,2013,Series D,777257,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Gibson-Spencer,827811626,1648827,2006,Seed,919876,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Smith-Grant,827811626,1648827,2007,Series C,955371,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Lopez, Fuller and Sloan",827811626,1648827,2012,Series F,575560,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Gonzales PLC,827811626,1648827,1971,Government Award,372695,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Chen-Malone,827811626,1648827,1974,Series E,995719,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Glass, Matthews and Lowe",827811626,1648827,2015,Series D,36435,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Duran, Davis and Barnett",827811626,1648827,2010,Series A,870303,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Hoffman Ltd,827811626,1648827,1996,Seed,170607,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Moran Ltd,827811626,1648827,2012,Series B,544478,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Austin-Harris,827811626,1648827,1973,Series E,235603,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Perez-Kelly,827811626,1648827,2003,Seed,490770,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Saunders LLC,827811626,1648827,1998,Series C,708826,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Perry, Thomas and Hernandez",827811626,1648827,2017,Government Award,100324,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Wolf LLC,827811626,1648827,1994,Series C,267809,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Cooper-Smith,827811626,1648827,2002,Series F,414239,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Holloway Ltd,827811626,1648827,2003,Series A,588273,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Booker-Smith,827811626,1648827,1994,Series E,308894,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Terry-Key,827811626,1648827,1980,Series F,231406,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Davis, Ellis and Donaldson",827811626,1648827,1983,Series A,535082,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Rodriguez-Salazar,827811626,1648827,1972,Government Award,414921,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Rodriguez-Carr,827811626,1648827,1987,Government Award,317919,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Stevenson, Graves and Chen",827811626,1648827,1993,Series A,265591,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Perez Ltd,827811626,1648827,2001,Series B,159169,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+King Group,827811626,1648827,1992,Series B,526853,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Roth, King and Patel",827811626,1648827,1977,Series D,470761,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hooper-Lewis,827811626,1648827,1997,Series F,718222,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Gonzales, Brown and Smith",827811626,1648827,2010,Series A,55796,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Gutierrez Ltd,827811626,1648827,2021,Series E,205088,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Brown, Alvarado and James",827811626,1648827,1997,Series F,17952,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Carpenter, Johnson and Ross",827811626,1648827,2012,Government Award,460329,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Spencer, Barr and Camacho",827811626,1648827,2005,Series F,262881,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Walker PLC,827811626,1648827,1987,Series D,467191,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Herrera-Odonnell,827811626,1648827,1978,Series D,255913,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Johnson-Kennedy,827811626,1648827,2018,Series B,483698,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+White-Hodges,827811626,1648827,2005,Series F,656860,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Green, Lane and Mueller",827811626,1648827,1990,Series C,606838,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Jones PLC,827811626,1648827,1984,Series A,445270,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Gonzales-Harrington,827811626,1648827,2012,Series E,131440,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Harrison-Alvarez,827811626,1648827,1987,Series A,302353,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Johnson, Scott and Castro",827811626,1648827,1983,Series C,387493,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hays Group,827811626,1648827,1996,Series F,71813,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Holloway-Gardner,827811626,1648827,2007,Series B,303027,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Bryan-Henderson,827811626,1648827,2011,Series A,297565,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Williams, Bates and Moore",827811626,1648827,2010,Seed,814326,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Russell-Garcia,827811626,1648827,1983,Series B,36822,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Foster-Harris,827811626,1648827,2016,Series F,377517,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Taylor Inc,827811626,1648827,2009,Series D,472279,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Jackson, Wilson and Hess",827811626,1648827,1986,Seed,45565,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Warner Ltd,827811626,1648827,1982,Seed,998731,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Alvarez Ltd,827811626,1648827,2010,Series F,805959,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Anderson PLC,827811626,1648827,2020,Seed,427455,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Tran-Andersen,827811626,1648827,1988,Series F,860867,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Pittman-Nelson,827811626,1648827,1983,Seed,735680,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Simmons-Fowler,827811626,1648827,1992,Series C,884987,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Mahoney-Rodgers,827811626,1648827,1985,Seed,966972,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Jordan-Oneal,827811626,1648827,1996,Series B,666132,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Eaton-Grimes,827811626,1648827,2002,Series F,937103,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Cox-Mcdowell,827811626,1648827,2020,Series A,936951,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Lambert, Garcia and Harris",827811626,1648827,2004,Series C,97502,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Gibson-Rogers,827811626,1648827,1982,Series C,155853,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Melton, Johnson and Morales",827811626,1648827,2005,Series C,842161,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Morton and Sons,827811626,1648827,2014,Series D,380556,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hernandez Ltd,827811626,1648827,1981,Government Award,134491,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Wolf, Cunningham and Thompson",827811626,1648827,1998,Series D,717821,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Gonzales, Horn and Mclaughlin",827811626,1648827,1971,Series C,269773,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Bell-Huffman,827811626,1648827,1987,Series D,558181,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Valdez-Jordan,827811626,1648827,1998,Series C,791080,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Crawford-Stout,827811626,1648827,1978,Series B,409072,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Williams PLC,827811626,1648827,2008,Seed,789397,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Armstrong, Moore and Crawford",827811626,1648827,1971,Series D,891648,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Huber, Phillips and Barker",827811626,1648827,1984,Series E,14450,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Peters Ltd,827811626,1648827,1970,Series E,631442,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Parker-Dawson,827811626,1648827,1999,Series E,282623,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ayala PLC,827811626,1648827,1990,Series C,873681,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Richard, Lee and Cox",827811626,1648827,2006,Series F,188410,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Valentine Group,827811626,1648827,1995,Series D,333122,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Rodriguez-Pierce,827811626,1648827,1980,Government Award,536826,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Stevens-Gardner,827811626,1648827,1975,Government Award,545689,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Ramirez and Sons,827811626,1648827,1978,Series F,590840,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Lawson-Castro,827811626,1648827,2015,Seed,208751,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Craig, Daniels and Edwards",827811626,1648827,2017,Series B,607455,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Bush, Lucero and Cruz",827811626,1648827,1998,Series C,622367,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Ayala, Smith and Howard",827811626,1648827,1995,Series D,47844,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Johns and Sons,827811626,1648827,2017,Series D,805374,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Sanders, Pacheco and Freeman",827811626,1648827,2009,Seed,418202,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Pratt, Hamilton and Malone",827811626,1648827,1985,Seed,610469,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Hartman, Warren and Phillips",827811626,1648827,2016,Series A,901726,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Morgan LLC,827811626,1648827,2003,Government Award,439042,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Foley-Stevens,827811626,1648827,1972,Series E,482825,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Buckley, Knight and Holland",827811626,1648827,2020,Seed,802170,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Johnson-Lee,827811626,1648827,1989,Government Award,938067,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Harrell LLC,827811626,1648827,1974,Series A,118640,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Farmer, Torres and Walls",827811626,1648827,2007,Government Award,678075,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Crawford-Weaver,827811626,1648827,1993,Government Award,115756,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Walker, Johnson and Davis",827811626,1648827,2019,Series F,812675,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Anderson LLC,827811626,1648827,2020,Series D,413818,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Wright-Simon,827811626,1648827,1992,Seed,312762,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Huffman, Fox and Simmons",827811626,1648827,2019,Series C,321649,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Johnson PLC,827811626,1648827,2002,Series D,593817,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Dyer, Johnson and Carlson",827811626,1648827,1984,Series E,560799,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Welch-Hoover,827811626,1648827,2009,Series C,481252,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Gibbs Inc,827811626,1648827,1972,Series D,383652,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Le, Nichols and King",827811626,1648827,2015,Series C,955110,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Fox-Snyder,827811626,1648827,1980,Series A,698546,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Gordon Group,827811626,1648827,2020,Series E,312074,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Wells, Porter and Hall",827811626,1648827,1981,Seed,62803,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Lucas, Rogers and Rodriguez",827811626,1648827,1998,Series D,500570,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hanson Ltd,827811626,1648827,1995,Series F,655115,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Stone-Rodriguez,827811626,1648827,2002,Series F,260489,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Reese-Owens,827811626,1648827,1985,Series D,226205,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Martinez, Barber and Campbell",827811626,1648827,1992,Series F,491657,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Houston LLC,827811626,1648827,2015,Government Award,529011,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+King-Brooks,827811626,1648827,1982,Series C,381219,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Reynolds, Mcguire and Summers",827811626,1648827,1999,Series A,371613,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Woods LLC,827811626,1648827,2010,Series D,290399,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Cook Inc,827811626,1648827,2007,Series F,275553,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Logan-Cuevas,827811626,1648827,1971,Series C,547618,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Holmes-Williams,827811626,1648827,2005,Seed,753897,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Hernandez Group,827811626,1648827,1999,Series D,728372,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Johnson-Holloway,827811626,1648827,2013,Government Award,5626,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Vazquez, Roberts and Gonzalez",827811626,1648827,1992,Series B,353388,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Solis Ltd,827811626,1648827,1985,Series A,521834,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Crawford-Meyer,827811626,1648827,1989,Series E,47501,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Wright and Sons,827811626,1648827,1998,Series A,193480,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Wilson, Nelson and Miller",827811626,1648827,2007,Government Award,774825,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Hamilton, Blake and Russell",827811626,1648827,2015,Series A,526160,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Beasley Group,827811626,1648827,1975,Series E,132627,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Brown and Sons,827811626,1648827,2021,Series D,530290,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Weber LLC,827811626,1648827,2007,Series D,775754,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Jensen Ltd,827811626,1648827,2004,Government Award,258998,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Park-Faulkner,827811626,1648827,1984,Series A,988433,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Lamb, Fisher and Ingram",827811626,1648827,1992,Series A,351202,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Williams, Morales and Terry",827811626,1648827,1997,Government Award,833418,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Freeman, Parrish and James",827811626,1648827,1970,Series F,354122,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Jones, Kane and Nelson",827811626,1648827,2008,Government Award,347178,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Evans LLC,827811626,1648827,1986,Series E,731105,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Tucker-Webb,827811626,1648827,1974,Government Award,445199,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Park, Johnson and Paul",827811626,1648827,2009,Series B,197852,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Carroll and Sons,827811626,1648827,2006,Series A,857271,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Park and Sons,827811626,1648827,1983,Series D,361604,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Willis, Bean and Jackson",827811626,1648827,1980,Seed,538628,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Gray, Navarro and Jones",827811626,1648827,1991,Government Award,367011,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Norton, Griffin and Gibson",827811626,1648827,1995,Series F,275381,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Davis, Anderson and Gonzales",827811626,1648827,1982,Series E,245411,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Mitchell LLC,827811626,1648827,2008,Series C,746299,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Gentry-Ballard,827811626,1648827,2015,Seed,521744,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Jones and Sons,827811626,1648827,2021,Series C,959158,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Johnson Inc,827811626,1648827,2008,Series C,483832,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Snow, Robinson and Sanchez",827811626,1648827,1995,Series D,829490,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Banks Ltd,827811626,1648827,2006,Series D,105399,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Smith-Williams,827811626,1648827,1995,Series A,528607,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Cochran-Parker,827811626,1648827,1979,Government Award,592576,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Hernandez-Payne,827811626,1648827,2018,Series B,766363,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Jordan-Villarreal,827811626,1648827,2002,Series E,491431,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Stevenson PLC,827811626,1648827,1983,Government Award,770903,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Lane PLC,827811626,1648827,2009,Series A,96520,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Forbes, Lawrence and Jones",827811626,1648827,1982,Series A,339698,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Wilson LLC,827811626,1648827,1988,Series C,221363,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Gardner, Ward and Mann",827811626,1648827,2015,Series A,594823,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Smith, Foley and Figueroa",827811626,1648827,2013,Series E,724071,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Marshall-Wood,827811626,1648827,1974,Government Award,743177,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Anderson, Davidson and Quinn",827811626,1648827,1988,Series A,642326,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Harrison-Cross,827811626,1648827,1988,Series B,38786,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Riley Group,827811626,1648827,1994,Series D,130168,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Hart, Hoffman and Cooper",827811626,1648827,1980,Series B,295882,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Reynolds-Davidson,827811626,1648827,2013,Series F,832893,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Harrington Ltd,827811626,1648827,1988,Series D,50781,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Webb, Roman and Singh",827811626,1648827,2013,Government Award,266034,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Singleton-Butler,827811626,1648827,2001,Seed,709153,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Richards Ltd,827811626,1648827,1997,Series A,10360,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Perry-Smith,827811626,1648827,1999,Series C,905518,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Spence, Gomez and Hudson",827811626,1648827,1981,Government Award,578707,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Hays PLC,827811626,1648827,2013,Series C,8600,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Harris, Mcfarland and Carter",827811626,1648827,1980,Series D,194105,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Smith, Jones and Ramirez",827811626,1648827,2005,Series C,258751,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Walker, Marshall and Collins",827811626,1648827,2015,Series F,464873,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Clark, Edwards and Osborne",827811626,1648827,1991,Series E,146875,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Brock-Buchanan,827811626,1648827,1994,Series A,769358,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Wilcox-Phillips,827811626,1648827,1972,Government Award,343114,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Boyle-Sanders,827811626,1648827,1998,Series E,46361,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Patrick Group,827811626,1648827,1981,Government Award,124441,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Waters, Jensen and Johnson",827811626,1648827,1984,Series E,647474,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Franklin PLC,827811626,1648827,1997,Series B,574944,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Singleton, Bridges and Rojas",827811626,1648827,1989,Series B,171631,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Everett Ltd,827811626,1648827,2006,Series D,151048,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Allen, Mcguire and Stevens",827811626,1648827,1976,Series D,769593,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Schroeder-Combs,827811626,1648827,2012,Series F,795514,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Booth, Cardenas and Lloyd",827811626,1648827,1989,Series B,403007,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Acosta-Lin,827811626,1648827,2006,Seed,897270,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+King-Carter,827811626,1648827,1998,Seed,100849,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Boyd-Brewer,827811626,1648827,1999,Series A,597942,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Moore, Cunningham and Johnston",827811626,1648827,1986,Series A,477663,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Fitzgerald Inc,827811626,1648827,1991,Seed,807351,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Bradford, King and Nunez",827811626,1648827,2018,Series C,934746,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Allison Group,827811626,1648827,2003,Series F,880277,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hill and Sons,827811626,1648827,1972,Series A,386012,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Wong, Powell and Santos",827811626,1648827,1993,Series A,91477,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Williams-Lara,827811626,1648827,1985,Series B,301280,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Thompson, Miller and Wheeler",827811626,1648827,1985,Series F,341346,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Kane-Schmidt,827811626,1648827,2017,Seed,243727,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Andrews Ltd,827811626,1648827,1997,Series A,327745,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Wilson-Lee,827811626,1648827,1982,Series A,494919,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Anderson-Schmitt,827811626,1648827,1982,Seed,458204,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Gonzalez-Allen,827811626,1648827,2019,Series B,873534,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Santos, Patel and Wheeler",827811626,1648827,1990,Series D,896530,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Perez-Allen,827811626,1648827,1987,Seed,287971,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Moore-Olsen,827811626,1648827,1974,Series F,596936,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Payne-Coleman,827811626,1648827,1976,Series D,258400,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Lowe, Jackson and Smith",827811626,1648827,1989,Series C,845909,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Snyder, Davis and Lowery",827811626,1648827,1975,Seed,315876,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Walker-George,827811626,1648827,1983,Series F,412024,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Perry, Briggs and Wood",827811626,1648827,1990,Government Award,811895,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Williams, Kelly and Scott",827811626,1648827,2019,Series C,24334,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Robinson, Smith and Davis",827811626,1648827,1974,Series E,16088,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Castillo, Mcintosh and Benson",827811626,1648827,2002,Government Award,625098,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Dean-Oneill,827811626,1648827,2003,Series D,168029,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Jacobs, Young and Porter",827811626,1648827,2020,Series C,21468,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Chandler Ltd,827811626,1648827,1973,Series C,118573,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Chung Inc,827811626,1648827,1987,Series E,331233,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Rivera-Murray,827811626,1648827,2002,Series F,154607,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Diaz-Francis,827811626,1648827,1973,Seed,5255,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Velazquez Inc,827811626,1648827,2009,Series B,348425,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hunt Inc,827811626,1648827,1976,Series B,556463,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Bird Group,827811626,1648827,1978,Government Award,701562,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Graham Group,827811626,1648827,1992,Series E,152684,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Byrd-Rogers,827811626,1648827,1983,Series E,998898,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Wolf and Sons,827811626,1648827,1974,Government Award,757565,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Houston, Bishop and Turner",827811626,1648827,1987,Series B,572748,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Johnson, Hall and Gregory",827811626,1648827,1979,Series F,817158,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Aguirre-Guzman,827811626,1648827,1993,Series D,1314,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Gutierrez-Salas,827811626,1648827,2010,Series B,78773,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Castillo, Warner and Carr",827811626,1648827,1979,Seed,392884,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Snow, Roy and Nguyen",827811626,1648827,1983,Seed,874512,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Lopez, Tran and Quinn",827811626,1648827,1970,Seed,608109,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Shelton LLC,827811626,1648827,2005,Government Award,362589,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Harper and Sons,827811626,1648827,2002,Series F,690684,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Miller, Henry and Collier",827811626,1648827,1983,Series B,528152,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Anderson Group,827811626,1648827,1983,Series C,972875,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Owen-Wiggins,827811626,1648827,2000,Series F,142493,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Webb, Mcintyre and Burke",827811626,1648827,1985,Series F,859493,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Maxwell-Lane,827811626,1648827,1972,Series E,244451,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Velez, Ramos and Spears",827811626,1648827,1994,Government Award,667475,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Mcclain-Potter,827811626,1648827,1990,Series A,606631,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Short LLC,827811626,1648827,1995,Series D,633985,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Ward, Martin and Allen",827811626,1648827,1985,Series C,798087,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Cooper and Sons,827811626,1648827,1981,Series F,421905,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Davila Inc,827811626,1648827,1970,Series C,560972,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Park Inc,827811626,1648827,2018,Series C,388826,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Heath Ltd,827811626,1648827,2020,Series C,229070,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Chambers-Morgan,827811626,1648827,1981,Series B,882313,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Clark, Hunt and Collins",827811626,1648827,2006,Series F,622247,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Watkins Inc,827811626,1648827,1996,Series B,360189,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Jimenez, Bryant and Shields",827811626,1648827,1983,Government Award,806094,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Murphy-Small,827811626,1648827,2017,Government Award,843911,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Gray, Phillips and Stewart",827811626,1648827,1988,Series F,15823,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Arroyo, Williamson and Jones",827811626,1648827,1975,Series C,125569,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Simon Ltd,827811626,1648827,2020,Series A,439462,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Jenkins Ltd,827811626,1648827,1997,Series E,391539,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Mitchell and Sons,827811626,1648827,2013,Seed,508246,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Warren Inc,827811626,1648827,2015,Series B,484664,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Cross and Sons,827811626,1648827,1990,Government Award,674145,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Cook LLC,827811626,1648827,1982,Series B,475662,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Duran-Cunningham,827811626,1648827,2004,Seed,499902,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Sharp Group,827811626,1648827,2015,Series E,47261,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Lewis-Haas,827811626,1648827,1974,Series C,403156,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Johnson, Hopkins and Bell",827811626,1648827,2018,Government Award,506905,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Greer-Ortiz,827811626,1648827,1991,Series D,189200,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Jackson-Castro,827811626,1648827,1992,Series D,756827,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Meadows, Jordan and Ayala",827811626,1648827,2015,Series C,118767,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Lee and Sons,827811626,1648827,2017,Series A,425641,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Patel-Thompson,827811626,1648827,1999,Series D,70313,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Stevens-Jordan,827811626,1648827,1970,Series E,482646,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Young, Murphy and Krueger",827811626,1648827,2012,Series D,325719,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Saunders, Moreno and Davis",827811626,1648827,1992,Series D,575487,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Watson PLC,827811626,1648827,2001,Series D,834508,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Williams and Sons,827811626,1648827,2013,Series A,815876,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Moore, Miller and Tran",827811626,1648827,1983,Series C,917867,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Nunez, Miller and Tapia",827811626,1648827,1974,Seed,550796,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Walters-Lee,827811626,1648827,1972,Series E,484494,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Oneal LLC,827811626,1648827,1973,Series F,811172,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Potter, Wheeler and Ibarra",827811626,1648827,1984,Series D,260196,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Mullins Group,827811626,1648827,2011,Series A,643371,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Marquez, White and Reed",827811626,1648827,1988,Series B,670255,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hernandez-Thompson,827811626,1648827,2020,Series B,98664,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Rodriguez, Brennan and Jimenez",827811626,1648827,1972,Series C,479738,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Nelson-Chen,827811626,1648827,2005,Seed,484214,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Dickerson-Santana,827811626,1648827,2006,Series D,54477,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Bell-Garza,827811626,1648827,1987,Series A,919062,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Graham Ltd,827811626,1648827,1973,Series B,354215,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Burton, Morales and Lee",827811626,1648827,1975,Series D,986025,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Lee, Jordan and Gonzalez",827811626,1648827,2009,Series F,911530,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Suarez, Perez and Mccullough",827811626,1648827,2000,Series C,700651,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ruiz LLC,827811626,1648827,2006,Seed,588584,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Schmidt Ltd,827811626,1648827,2007,Series D,376059,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Townsend, Smith and Martin",827811626,1648827,2008,Series F,576857,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Wright-Martin,827811626,1648827,2015,Series D,141770,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Fox, Roberts and Marquez",827811626,1648827,1989,Series F,319237,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Holt, Marquez and Wood",827811626,1648827,2019,Series F,576293,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Wright-Clark,827811626,1648827,1994,Series E,374436,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Perry-Yang,827811626,1648827,1981,Seed,725275,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Hardin Group,827811626,1648827,2003,Series E,281075,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Simmons, Stewart and Aguilar",827811626,1648827,2004,Seed,127763,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Evans-Potter,827811626,1648827,1991,Series B,824369,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Martinez PLC,827811626,1648827,1971,Seed,194045,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Martinez, Beard and Garza",827811626,1648827,1978,Series E,287518,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ruiz Ltd,827811626,1648827,1994,Series E,973261,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Wood, Porter and Anderson",827811626,1648827,2015,Series F,872766,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Ruiz, Parker and Brown",827811626,1648827,2016,Series B,445140,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Torres-Cochran,827811626,1648827,1980,Series D,278564,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Lyons LLC,827811626,1648827,1994,Series A,738063,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Bell-Sanders,827811626,1648827,2007,Series A,793600,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Figueroa Ltd,827811626,1648827,2021,Series B,456683,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Newman-Washington,827811626,1648827,1978,Series F,196497,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Palmer Ltd,827811626,1648827,2007,Seed,522612,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Baker Ltd,827811626,1648827,1995,Series D,621654,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Black, Miller and Rivera",827811626,1648827,2020,Government Award,21977,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Rojas Inc,827811626,1648827,1994,Series D,63323,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Snyder PLC,827811626,1648827,2005,Series A,876829,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Espinoza-Henderson,827811626,1648827,1973,Series F,28929,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ford Group,827811626,1648827,1985,Series F,789992,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Gonzalez Inc,827811626,1648827,1972,Government Award,507104,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Tran Ltd,827811626,1648827,2012,Series D,583776,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Duke and Sons,827811626,1648827,1977,Series B,793648,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Martinez, Miller and Franco",827811626,1648827,1987,Series B,627466,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Rogers Inc,827811626,1648827,1976,Series E,175192,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Wilson, Washington and David",827811626,1648827,2017,Series E,112488,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Rose LLC,827811626,1648827,1970,Series B,712980,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Martinez, Leonard and Cruz",827811626,1648827,2021,Series A,816752,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Conway LLC,827811626,1648827,1977,Series D,600092,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Davis, Benjamin and Williams",827811626,1648827,2007,Government Award,524505,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Peterson Ltd,827811626,1648827,2010,Government Award,534307,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Henry-Rasmussen,827811626,1648827,2020,Series E,772827,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Barber, Wallace and King",827811626,1648827,1980,Series C,406236,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Li Inc,827811626,1648827,1985,Series D,761634,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Carpenter Group,827811626,1648827,2014,Seed,961696,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Mitchell-White,827811626,1648827,1993,Series D,91653,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Berger, Esparza and Collins",827811626,1648827,1971,Series F,670973,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Young-Ray,827811626,1648827,2015,Series A,77435,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Miller-Travis,827811626,1648827,2010,Series C,283652,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Wells, Hunter and Lucero",827811626,1648827,1974,Series A,408432,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Powell PLC,827811626,1648827,2004,Series E,414676,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Adams-Bell,827811626,1648827,1982,Seed,295589,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Ward-Davis,827811626,1648827,1978,Series E,95812,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Daniels PLC,827811626,1648827,2000,Series B,981427,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Kidd Group,827811626,1648827,1984,Series E,605404,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Jackson-Kemp,827811626,1648827,1980,Series A,287813,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Williams-Becker,827811626,1648827,1981,Series E,845759,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Smith, Duncan and Pearson",827811626,1648827,1975,Series D,216162,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Green-Mullen,827811626,1648827,1972,Series E,581323,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Brown, Bullock and Jones",827811626,1648827,1979,Series F,104501,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Cook-Costa,827811626,1648827,1994,Series E,789422,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Simmons, Barnes and Nelson",827811626,1648827,1975,Series C,910432,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Perry-Moore,827811626,1648827,2020,Series B,644931,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Mcdonald LLC,827811626,1648827,2017,Series B,464043,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Baird-Dyer,827811626,1648827,2020,Seed,959386,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Blankenship Group,827811626,1648827,2011,Government Award,768890,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Johnson-Garrett,827811626,1648827,2017,Series B,283703,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Russo-Freeman,827811626,1648827,2011,Series A,233091,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Graves, Miller and Barker",827811626,1648827,2007,Series A,942925,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Bell Inc,827811626,1648827,2015,Seed,742346,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Foley, Zavala and Newton",827811626,1648827,1976,Government Award,514132,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Murillo-Brewer,827811626,1648827,1987,Series C,26986,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Fields and Sons,827811626,1648827,1979,Seed,352359,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Bryan Ltd,827811626,1648827,1999,Series E,679954,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Ewing LLC,827811626,1648827,1993,Series F,245123,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Washington, Hill and Houston",827811626,1648827,1973,Series E,748071,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Baldwin-Diaz,827811626,1648827,1976,Series A,582125,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Carpenter-Harris,827811626,1648827,1984,Series B,19604,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Velasquez-Graham,827811626,1648827,1989,Government Award,756478,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Lane, Davis and Wright",827811626,1648827,1999,Series E,522055,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Archer Group,827811626,1648827,2020,Series E,617594,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Brown, Silva and Smith",827811626,1648827,2014,Series F,52181,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Strickland-White,827811626,1648827,2017,Series D,317537,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Bailey, Banks and Harvey",827811626,1648827,2017,Seed,549441,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Jones, Mooney and Mckenzie",827811626,1648827,1982,Series D,926313,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Adkins Ltd,827811626,1648827,2015,Series F,770071,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Salazar, Singh and Woods",827811626,1648827,1992,Series C,468783,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Jones, Collins and Walker",827811626,1648827,1981,Series D,527760,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Mckenzie Inc,827811626,1648827,1985,Series D,166652,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Pennington Ltd,827811626,1648827,2021,Series F,399003,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Curtis Ltd,827811626,1648827,1974,Series A,755037,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Evans-Jones,827811626,1648827,2012,Series C,210196,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Sullivan-Burnett,827811626,1648827,2010,Series D,296034,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Griffin PLC,827811626,1648827,1993,Series C,80038,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hines PLC,827811626,1648827,1998,Series F,956042,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Rivera-Bowman,827811626,1648827,1977,Series C,618737,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Proctor PLC,827811626,1648827,1993,Series E,995569,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Larsen-Williams,827811626,1648827,2018,Series F,542445,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Edwards, Duke and Gonzalez",827811626,1648827,2019,Seed,930895,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Simmons, Alexander and Vasquez",827811626,1648827,2007,Series D,196092,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Nichols Group,827811626,1648827,2008,Series A,668188,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Buckley, Carlson and Welch",827811626,1648827,1978,Series E,921251,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hancock Inc,827811626,1648827,2012,Series E,753236,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Bowman, Dunn and Hughes",827811626,1648827,1995,Series A,274458,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Medina-Beard,827811626,1648827,2017,Government Award,132039,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Spencer Ltd,827811626,1648827,1972,Government Award,894247,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Marshall-Brown,827811626,1648827,2002,Series D,674741,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Morales, Allen and Obrien",827811626,1648827,2013,Series E,462848,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Hunt, Nielsen and Parker",827811626,1648827,1985,Seed,319010,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Carpenter-Levine,827811626,1648827,2006,Series A,823091,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Case, Moore and Smith",827811626,1648827,2011,Series A,488930,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Hughes Ltd,827811626,1648827,1987,Series E,833107,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Clark PLC,827811626,1648827,1988,Series A,618105,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Burke, Price and Fox",827811626,1648827,1975,Series A,199316,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Carroll Inc,827811626,1648827,2019,Series E,16068,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Parsons PLC,827811626,1648827,1983,Series A,854843,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Doyle-Fisher,827811626,1648827,1984,Government Award,788968,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Hunter-Cox,827811626,1648827,2000,Government Award,135551,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Klein PLC,827811626,1648827,1980,Series E,942169,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Jones-Ingram,827811626,1648827,1993,Government Award,262916,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Henderson, Webb and Hartman",827811626,1648827,2007,Seed,670415,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Hooper LLC,827811626,1648827,1976,Series E,654155,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Parker-Santiago,827811626,1648827,2021,Series E,322183,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Harrison and Sons,827811626,1648827,2002,Seed,512115,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Griffin, Harrison and Bates",827811626,1648827,1998,Series F,178751,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Montgomery, Hernandez and Alexander",827811626,1648827,1971,Series E,401254,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Alvarez-Hartman,827811626,1648827,1989,Seed,132990,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Yang-Moore,827811626,1648827,1974,Series F,699244,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Higgins-Gregory,827811626,1648827,1980,Series F,469917,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Bell-Mccoy,827811626,1648827,2019,Series C,529895,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Velez Group,827811626,1648827,1993,Series D,918246,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hogan Inc,827811626,1648827,1998,Series C,956504,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Sullivan PLC,827811626,1648827,1990,Series D,751665,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Allen, Duncan and Mccarty",827811626,1648827,2017,Series A,792514,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Knox-Harmon,827811626,1648827,1972,Seed,989085,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Lewis, Olson and Cole",827811626,1648827,1995,Series A,450355,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Sanchez LLC,827811626,1648827,2002,Seed,701491,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Lee Ltd,827811626,1648827,1971,Seed,910466,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Rhodes Inc,827811626,1648827,2007,Series B,580521,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hubbard Ltd,827811626,1648827,1977,Series B,367730,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+White-Kemp,827811626,1648827,2021,Series E,509601,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Lopez-Gonzales,827811626,1648827,1978,Series D,793062,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Brown, Hays and Horton",827811626,1648827,1986,Government Award,896299,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Bryant, Washington and Valenzuela",827811626,1648827,1974,Seed,452952,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Mejia, Mcclure and Mccall",827811626,1648827,1990,Government Award,387151,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Gould, Boyd and Cohen",827811626,1648827,1978,Series F,991491,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Vazquez Group,827811626,1648827,2003,Series B,598518,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Stanley-Moore,827811626,1648827,2002,Series B,433997,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hall PLC,827811626,1648827,1985,Government Award,949404,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Rios Ltd,827811626,1648827,2008,Series D,403362,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Jones-Pierce,827811626,1648827,2019,Series D,866614,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Schmitt-Hanson,827811626,1648827,2011,Government Award,412186,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Maddox-Johnson,827811626,1648827,1995,Series A,785926,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Smith, Montes and Rios",827811626,1648827,1980,Series C,533131,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+King LLC,827811626,1648827,2015,Series F,224519,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Cisneros, Jordan and Jenkins",827811626,1648827,2021,Series F,684892,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Arellano, Hansen and Martinez",827811626,1648827,1971,Government Award,430693,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Maxwell, White and Valdez",827811626,1648827,1972,Seed,981452,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Nelson Inc,827811626,1648827,2021,Series B,87352,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Perkins and Sons,827811626,1648827,1978,Series E,817428,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Todd-Cox,827811626,1648827,2014,Series A,760749,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Suarez Ltd,827811626,1648827,2018,Series B,837921,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Dominguez and Sons,827811626,1648827,1985,Series D,898165,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Paul-Boone,827811626,1648827,1984,Government Award,669256,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Sherman, Acosta and Leonard",827811626,1648827,2015,Series F,658929,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Harvey-Daniel,827811626,1648827,2012,Series A,831310,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Jackson, Farrell and Johnson",827811626,1648827,2005,Series C,609127,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Holmes-Hall,827811626,1648827,2015,Series E,130960,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Chambers Ltd,827811626,1648827,2020,Series D,93046,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Hampton, Erickson and Bailey",827811626,1648827,1986,Series F,956430,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Wilkerson-Armstrong,827811626,1648827,2000,Series A,551619,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Pitts LLC,827811626,1648827,1988,Seed,290949,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Thomas and Sons,827811626,1648827,1975,Series E,213636,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Ramirez, Roman and Ruiz",827811626,1648827,1972,Series E,708934,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Cruz-Warren,827811626,1648827,2017,Series C,705683,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Burns LLC,827811626,1648827,1993,Series C,871007,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Yates-Bartlett,827811626,1648827,2021,Series C,782486,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Mccoy Group,827811626,1648827,2012,Government Award,494943,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Harris, Larson and Barrera",827811626,1648827,1992,Series D,383857,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Mills, Smith and Cox",827811626,1648827,2013,Government Award,176863,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Cohen-Lewis,827811626,1648827,2016,Government Award,306055,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Palmer Group,827811626,1648827,2015,Series C,502665,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hawkins Ltd,827811626,1648827,1974,Government Award,199259,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Burns Ltd,827811626,1648827,2004,Series A,467139,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Davis-Reese,827811626,1648827,1995,Seed,522383,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Allen and Sons,827811626,1648827,1989,Series A,550247,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Dunn, Romero and Shelton",827811626,1648827,2002,Series D,605784,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Phillips-Long,827811626,1648827,1983,Series F,960779,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Hernandez, Bates and Walters",827811626,1648827,2016,Series A,126215,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Reed, Roberts and Fitzgerald",827811626,1648827,2001,Series A,240795,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Ramirez, Harris and Mccarty",827811626,1648827,1984,Series F,816254,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Schwartz-Gonzales,827811626,1648827,1992,Series C,86393,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Alexander, Sellers and Cervantes",827811626,1648827,1981,Series C,336371,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Johnson-Anderson,827811626,1648827,2011,Seed,967556,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Ray and Sons,827811626,1648827,2013,Series B,619310,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Trevino, Watkins and Williamson",827811626,1648827,2004,Series E,217449,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Turner Inc,827811626,1648827,2020,Series B,80262,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Martinez-Perry,827811626,1648827,1997,Series B,182107,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Orozco, Bell and Martinez",827811626,1648827,2019,Series E,174068,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Thomas PLC,827811626,1648827,1971,Seed,212387,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Green, Jimenez and Hill",827811626,1648827,2011,Series A,958951,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Reynolds, Solis and Hernandez",827811626,1648827,1990,Government Award,122118,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Rubio PLC,827811626,1648827,1978,Government Award,711506,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Hall-Maldonado,827811626,1648827,1994,Series F,905901,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Mcguire, Powell and Reynolds",827811626,1648827,1998,Series E,75979,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Callahan-Warren,827811626,1648827,1981,Government Award,561354,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Russo-Watkins,827811626,1648827,1992,Series A,462003,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Webster, Ramirez and Long",827811626,1648827,1973,Series B,145380,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Sexton, Simpson and Martinez",827811626,1648827,2016,Series F,627951,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Edwards, Simpson and Coleman",827811626,1648827,2015,Series B,987408,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Moore-Davies,827811626,1648827,2010,Series E,773873,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Grant PLC,827811626,1648827,1985,Series D,194245,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Johnson-Townsend,827811626,1648827,1979,Series D,802543,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Russell-Graham,827811626,1648827,1996,Series F,564502,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Freeman PLC,827811626,1648827,1995,Government Award,58760,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Harris-Alvarado,827811626,1648827,2017,Series F,551484,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Black, Moore and Houston",827811626,1648827,1970,Government Award,707116,Venture Capital,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Nelson Ltd,827811626,1648827,2018,Series B,2885,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Williamson-Johnson,827811626,1648827,1992,Seed,231115,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Campbell Inc,827811626,1648827,1975,Government Award,557437,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Hall Inc,827811626,1648827,1985,Seed,164582,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Green, Monroe and Mendez",827811626,1648827,2012,Series E,951415,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Baker-Price,827811626,1648827,1987,Series B,832280,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Vazquez, Baker and Adkins",827811626,1648827,1994,Series B,78380,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Wilson, Beard and Montoya",827811626,1648827,2003,Series B,643447,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hale Inc,827811626,1648827,2020,Series D,273430,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Thomas-Kelly,827811626,1648827,1996,Series C,128685,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Miller-Keith,827811626,1648827,1980,Government Award,654594,DHHS,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Swanson, White and Ramirez",827811626,1648827,2015,Series B,25679,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Garcia, Weaver and Meyer",827811626,1648827,2000,Seed,422219,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Leblanc, Robinson and Le",827811626,1648827,1991,Series B,83819,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Rogers-Clark,827811626,1648827,1970,Seed,615651,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Shaw, Hill and Johnson",827811626,1648827,1992,Series A,750054,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Lucas-Bell,827811626,1648827,1988,Series C,528875,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Hale, Cunningham and Montes",827811626,1648827,1997,Government Award,793738,NSF,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+Foster Ltd,827811626,1648827,1974,Series A,471064,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Howard-Miller,827811626,1648827,1988,Seed,245745,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Rice-Sullivan,827811626,1648827,1979,Series C,101095,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Johns-Velez,827811626,1648827,1988,Series D,302884,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Rosales Group,827811626,1648827,1992,Series B,478402,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Mcpherson and Sons,827811626,1648827,1982,Series C,864236,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Macias PLC,827811626,1648827,2019,Series B,566191,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Smith, Stewart and Johnson",827811626,1648827,2012,Seed,116560,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Spears Group,827811626,1648827,2009,Series B,434714,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Johnson, Hall and Davis",827811626,1648827,2019,Series A,416647,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Allen PLC,827811626,1648827,2009,Series B,218410,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Adams-Holland,827811626,1648827,1979,Government Award,593308,DARPA,In_Labs,Embryonic,On_The_Rise,Innovation_Trigger
+"Bell, Stevenson and Brewer",827811626,1648827,1986,Series D,243956,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Nelson PLC,827811626,1648827,1981,Series C,799855,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Duffy-Hernandez,827811626,1648827,1983,Series E,983312,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Smith-Wright,827811626,1648827,1970,Series B,561109,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Powers-James,827811626,1648827,1987,Series B,583801,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Johnson, Gonzales and Lopez",827811626,1648827,2009,Series C,927988,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Smith-Green,827811626,1648827,2007,Seed,350605,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Powell and Sons,827811626,1648827,2007,Series F,141587,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Stokes Inc,827811626,1648827,2021,Series F,543445,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Stevens-Thompson,827811626,1648827,1979,Seed,142022,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Shaw, Gross and Simpson",827811626,1648827,1978,Series E,690978,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Burke Ltd,827811626,1648827,1992,Series C,360751,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Martin LLC,827811626,1648827,1979,Series D,643693,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Mata-Watson,827811626,1648827,2010,Seed,479891,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Crosby Group,827811626,1648827,2020,Seed,33800,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Harris, Collins and Cowan",827811626,1648827,2019,Series A,216545,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Clarke Inc,827811626,1648827,1991,Seed,135834,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Bradley-Pittman,827811626,1648827,1972,Series A,175309,Venture Capital,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Guzman and Sons,827811626,1648827,1984,Seed,928320,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Roberts Inc,827811626,1648827,1972,Series C,219323,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Reese-Pace,827811626,1648827,2011,Seed,255332,DARPA,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Harris-Davis,827811626,1648827,2015,Series C,140066,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Lowe, Adkins and Ayala",827811626,1648827,2011,Seed,124087,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Wheeler and Sons,827811626,1648827,2009,Seed,909077,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Newton, Acosta and Arellano",827811626,1648827,2007,Series A,934266,DHHS,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+White-Bautista,827811626,1648827,2008,Series C,201665,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Gonzales Inc,827811626,1648827,1987,Series F,565410,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Moore-Mcdonald,827811626,1648827,1998,Series F,386178,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hernandez-Lang,827811626,1648827,2012,Seed,952094,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+Ross PLC,827811626,1648827,2014,Series D,521585,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Huffman-Smith,827811626,1648827,1994,Series A,761360,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+"Morton, Williams and Henderson",827811626,1648827,1973,Series A,794470,NSF,Pilots_and_Deployments,Emerging,At_The_Peak,Peak_of_Inflated_Expectations
+West-Newman,827811626,1648827,1975,Series D,51718,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Williams-Eaton,827811626,1648827,1981,Series E,86583,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Stephens-Moore,827811626,1648827,1986,Series E,42595,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Owens, Gonzalez and Green",827811626,1648827,1975,Series B,990756,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Fleming, Wolfe and Leonard",827811626,1648827,1999,Series D,261986,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Tran-Huffman,827811626,1648827,1983,Series C,392450,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Wilson, Robbins and Miller",827811626,1648827,2020,Series E,219309,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Olson, Decker and Silva",827811626,1648827,2006,Series C,838298,DARPA,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Davidson, Wilson and Morse",827811626,1648827,2011,Series B,850178,Venture Capital,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Hunt and Sons,827811626,1648827,1985,Series F,462783,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+"Allen, Harrison and Peters",827811626,1648827,2020,Series B,215785,DHHS,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
+Miller LLC,827811626,1648827,1986,Series E,289394,NSF,Pilots_and_Deployments,Emerging,Sliding_Into_Trough,Trough_of_Disillusionment
