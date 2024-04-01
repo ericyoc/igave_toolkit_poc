@@ -58,7 +58,7 @@ The X-Force IGAVE Toolkit draws inspiration from the book "Loonshots: How to Nur
 
 The X-Force IGAVE Toolkit is a visualization demonstration that showcases various concepts related to innovation, market adoption, and emerging technologies. It provides a platform for exploring and understanding the progression of technologies and projects over time, the adoption and market share of technologies, and the emerging risks associated with them.
 
-The toolkit aims to facilitate decision-making and strategic planning by providing insights into the potential impact and trajectory of technologies and projects. It combines data visualization, machine learning algorithms, and interactive features to create a comprehensive and engaging exploration experience.
+The toolkit aims to facilitate decision-making and strategic planning by providing insights into the potential impact and trajectory of technologies and projects. It combines data visualization, machine learning algorithms, and interactive features to create a comprehensive and engaging exploration experience. [IGAVE Toolkit Demo Results](https://github.com/ericyoc/igave_toolkit_demo/tree/main/igave_toolkit_results)
 
 ## Getting Started
 
