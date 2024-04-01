@@ -2,7 +2,7 @@
 
 The X-Force IGAVE Toolkit is a Python-based application that provides a visualization demonstration of various concepts related to innovation, market adoption, and emerging technologies. IGAVE stands for Innovation, Generative, Algorithm, Visualization, and Exploration.
 
-The X-Force IGAVE Toolkit was created as part of the X-Force Fellowship, a summer internship program that provides undergraduate and graduate students and recent graduates a chance to serve their country by solving real-world national security problems in collaboration with the U.S. Department of Defense. The toolkit aims to support decision-making and strategic planning in the context of national security by offering insights into the potential impact and trajectory of technologies and projects.
+The X-Force IGAVE Toolkit was created as part of the X-Force Fellowship, a summer internship program that provides undergraduate and graduate students and recent graduates a chance to serve their country by solving real-world national security problems in collaboration with the U.S. Department of Defense. The toolkit aims to support decision-making and strategic planning in the context of national security by offering insights into the potential impact and trajectory of technologies and projects. For more information, please visit the X-Force Fellowship website: [X-Force Fellowship](https://nsin.mil/x-force/)
 
 ## Overview
 
