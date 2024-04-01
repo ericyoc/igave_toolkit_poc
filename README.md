@@ -32,9 +32,9 @@ The X-Force IGAVE Toolkit is built using the following Python libraries and comp
 
 The X-Force IGAVE Toolkit can work with various data files in CSV format. The toolkit includes the following default data files:
 
-- `infratry_small_arms_data.csv`: Contains data related to small arms and infantry weapons.
-- `synth_bio_data.csv`: Contains synthetic biology company data from the Golden database.
-- `fake_dataset.csv`: A synthetic dataset generated using the Pydbgen library for demonstration purposes.
+- `infratry_small_arms_data.csv`: Contains data related to small arms and infantry weapons. [infratry_small_arms_data.csv](https://github.com/ericyoc/igave_toolkit_demo/blob/main/infratry_small_arms_data.)
+- `synth_bio_data.csv`: Contains synthetic biology company data from the Golden database. [synth_bio_data.csv](https://github.com/ericyoc/igave_toolkit_demo/blob/main/synth_bio_data.csv)
+- `fake_dataset.csv`: A synthetic dataset generated using the Pydbgen library for demonstration purposes. [fake_dataset.csv](https://github.com/ericyoc/igave_toolkit_demo/blob/main/fake_dataset.csv)
 
 You can also upload your own CSV files to explore and visualize your data using the X-Force IGAVE Toolkit.
 
