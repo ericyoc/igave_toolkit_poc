@@ -4,7 +4,12 @@ The X-Force IGAVE Toolkit is a Python-based application that provides a visualiz
 
 The X-Force IGAVE Toolkit was created as part of the X-Force Fellowship, a summer internship program that provides undergraduate and graduate students and recent graduates a chance to serve their country by solving real-world national security problems in collaboration with the U.S. Department of Defense. The toolkit aims to support decision-making and strategic planning in the context of national security by offering insights into the potential impact and trajectory of technologies and projects. For more information, please visit the X-Force Fellowship website: [X-Force Fellowship](https://nsin.mil/x-force/)
 
-## Overview
+## Inspiration: The Loonshot Book
+https://www.bahcall.com/book/
+
+The X-Force IGAVE Toolkit draws inspiration from the book "Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries" by Safi Bahcall. The book explores the concept of "loonshots," which are wild ideas that have the potential to create massive transformative impacts. It emphasizes the importance of nurturing and supporting these ideas to drive innovation and breakthrough achievements.
+
+## Implementation Overview
 
 The X-Force IGAVE Toolkit offers a range of visualizations and interactive features, including:
 
@@ -49,10 +54,6 @@ The Hype Cycle consists of five phases:
 3. Trough of Disillusionment: Interest wanes as experiments and implementations fail to deliver.
 4. Slope of Enlightenment: More instances of how the technology can benefit the enterprise start to crystallize and become more widely understood.
 5. Plateau of Productivity: Mainstream adoption starts to take off, and the technology's broad market applicability and relevance are clearly paying off.
-
-## Loonshot Book
-
-The X-Force IGAVE Toolkit draws inspiration from the book "Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries" by Safi Bahcall. The book explores the concept of "loonshots," which are wild ideas that have the potential to create massive transformative impacts. It emphasizes the importance of nurturing and supporting these ideas to drive innovation and breakthrough achievements.
 
 ## IGAVE Toolkit
 
