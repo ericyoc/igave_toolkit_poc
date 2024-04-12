@@ -5,9 +5,8 @@ The X-Force IGAVE Toolkit is a Python-based application that provides a visualiz
 The X-Force IGAVE Toolkit was created as part of the X-Force Fellowship, a summer internship program that provides undergraduate and graduate students and recent graduates a chance to serve their country by solving real-world national security problems in collaboration with the U.S. Department of Defense. The toolkit aims to support decision-making and strategic planning in the context of national security by offering insights into the potential impact and trajectory of technologies and projects. For more information, please visit the X-Force Fellowship website: [X-Force Fellowship](https://nsin.mil/x-force/)
 
 ## Inspiration: The Loonshot Book
-https://www.bahcall.com/book/
 
-The X-Force IGAVE Toolkit draws inspiration from the book "Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries" by Safi Bahcall. The book explores the concept of "loonshots," which are wild ideas that have the potential to create massive transformative impacts. It emphasizes the importance of nurturing and supporting these ideas to drive innovation and breakthrough achievements.
+The X-Force IGAVE Toolkit draws inspiration from the book "Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries" by Safi Bahcall. The book explores the concept of "loonshots," which are wild ideas that have the potential to create massive transformative impacts. It emphasizes the importance of nurturing and supporting these ideas to drive innovation and breakthrough achievements. https://www.bahcall.com/book/
 
 ## Implementation Overview
 
