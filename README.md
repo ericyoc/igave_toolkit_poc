@@ -92,3 +92,7 @@ We would like to acknowledge the following resources and inspirations:
 - Pydbgen: [Pydbgen](https://pypi.org/project/pydbgen/)
 
 We hope you find the X-Force IGAVE Toolkit informative and insightful in your exploration of innovation, market adoption, and emerging technologies, and that it contributes to solving real-world national security problems in collaboration with the U.S. Department of Defense.
+
+**Disclaimer**
+This repository is intended for educational and research purposes.
+
